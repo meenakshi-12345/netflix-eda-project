@@ -49,3 +49,5 @@ Hi! I’m a **B.Tech CSE student** passionate about data and analysis.
 I’m currently exploring the world of **data analytics**, learning one project at a time 🌱  
 Feel free to connect or suggest improvements!
 
+Added histogram screenshot 
+<img width="565" height="457" alt="Screenshot 2025-10-29 193337" src="https://github.com/user-attachments/assets/81e3cf23-8715-45ff-abd8-5e264e13a7ee" />

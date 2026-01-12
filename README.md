@@ -1,3 +1,7 @@
+<img width="2226" height="678" alt="logo" src="https://github.com/user-attachments/assets/71624eb6-d4b6-46df-a691-029c226c4885" />
+
+
+
 # netflix-eda-project
 Analyzing Netflix data to uncover trends in movies and TV shows.
 
